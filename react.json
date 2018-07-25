@@ -99,12 +99,21 @@
     "lng": 119.9023
   },
   {
-    "id": 221,
+    "id": 228,
     "name": "Lake Sebu",
     "imageUrl": "https://github.com/coilyn/pictures/blob/master/lakesebu.jpg?raw=true",
     "price": 1500,
     "priceCurrency": "Philippine PESO",
     "lat": 6.2447,
     "lng": 124.5528
+  },
+  {
+    "id": 229,
+    "name": "Vigan",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/vigan.jpg?raw=true",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 17.5705,
+    "lng": 120.3873
   }
 ]
